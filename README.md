@@ -1,14 +1,14 @@
-# Portfolio Project
+# Tristan's Portfolio Website 🚀
 
 This project is a React-based portfolio website built using Vite for fast development and TailwindCSS for styling. It showcases modern web development practices and includes features like dynamic components, animations, and responsive design.
 
 ## Features
 
-- **React + Vite**: Fast development environment with Hot Module Replacement (HMR).
-- **TailwindCSS**: Utility-first CSS framework for rapid UI development.
-- **Dynamic Components**: Modular and reusable React components.
-- **Responsive Design**: Optimized for various screen sizes.
-- **Custom Animations**: Smooth transitions and hover effects.
+- **React + Vite** ⚡: Fast development environment with Hot Module Replacement (HMR).
+- **TailwindCSS** 🎨: Utility-first CSS framework for rapid UI development.
+- **Dynamic Components** 🧩: Modular and reusable React components.
+- **Responsive Design** 📱: Optimized for various screen sizes.
+- **Custom Animations** ✨: Smooth transitions and hover effects.
 
 ## Project Structure
 
@@ -27,7 +27,7 @@ portfolio/
 ├── README.md            # Project documentation
 ```
 
-## Installation
+## Installation 🛠️
 
 1. Clone the repository:
    ```bash
@@ -46,44 +46,44 @@ portfolio/
 
 ## Usage
 
-### Development
+### Development 🚧
 Start the development server:
 ```bash
 npm run dev
 ```
 Access the app at `http://localhost:5173`.
 
-### Build
+### Build 📦
 Create a production build:
 ```bash
 npm run build
 ```
 
-### Preview
+### Preview 🔍
 Preview the production build:
 ```bash
 npm run preview
 ```
 
-### Lint
+### Lint ✅
 Run ESLint to check for code quality:
 ```bash
 npm run lint
 ```
 
-## Technologies Used
+## Technologies Used 🖥️
 
-- **React**: Library for building user interfaces.
-- **Vite**: Next-generation frontend tooling.
-- **TailwindCSS**: Utility-first CSS framework.
-- **ESLint**: Linter for identifying and fixing code issues.
+- **React** ⚛️: Library for building user interfaces.
+- **Vite** 🛠️: Next-generation frontend tooling.
+- **TailwindCSS** 🎨: Utility-first CSS framework.
+- **ESLint** ✅: Linter for identifying and fixing code issues.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## Acknowledgments 🙌
 
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [TailwindCSS](https://tailwindcss.com/)
+- [React](https://reactjs.org/) ⚛️
+- [Vite](https://vitejs.dev/) 🛠️
+- [TailwindCSS](https://tailwindcss.com/) 🎨
