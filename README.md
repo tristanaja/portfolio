@@ -80,7 +80,7 @@ npm run lint
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is proprietary and all rights are reserved. Unauthorized use, modification, or distribution of the code is strictly prohibited.
 
 ## Acknowledgments 🙌
 
