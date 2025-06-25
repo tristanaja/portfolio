@@ -1,89 +1,102 @@
 # Tristan's Portfolio Website 🚀
 
-This project is a React-based portfolio website built using Vite for fast development and TailwindCSS for styling. It showcases modern web development practices and includes features like dynamic components, animations, and responsive design.
+> **Status:** 🛠️ In Progress  
+> Building a modern, interactive portfolio to showcase my journey, skills, and passion for web development.
 
-## Features
+---
 
-- **React + Vite** ⚡: Fast development environment with Hot Module Replacement (HMR).
-- **TailwindCSS** 🎨: Utility-first CSS framework for rapid UI development.
-- **Dynamic Components** 🧩: Modular and reusable React components.
-- **Responsive Design** 📱: Optimized for various screen sizes.
-- **Custom Animations** ✨: Smooth transitions and hover effects.
+Welcome to my portfolio project! This site is crafted with the latest web technologies to highlight my work, skills, and interests as an IT programmer focused on clean UI, smooth UX, and continuous learning.
 
-## Project Structure
+## ✨ Overview
+
+This portfolio is a React-based web application, powered by Vite for lightning-fast development and styled with TailwindCSS for a sleek, responsive design. It features dynamic components, engaging Lottie animations, and interactive elements—all designed with a focus on modern UI/UX best practices.
+
+## 🚩 Key Features
+
+- **React + Vite**: Fast, modular, and scalable architecture.
+- **TailwindCSS**: Utility-first styling for rapid, consistent UI development.
+- **Lottie Animations**: Eye-catching, lightweight animations for a lively user experience.
+- **Dynamic Components**: Modular React components for easy expansion and maintenance.
+- **Responsive Design**: Optimized for all devices and screen sizes.
+- **Custom Animations & Effects**: Smooth transitions and interactive hover states.
+- **Accessible & Clean Code**: Focused on readability and maintainability.
+
+## 🖥️ Tech Stack
+
+- **React** – UI library for building interactive interfaces
+- **Vite** – Next-gen frontend tooling for fast builds and HMR
+- **TailwindCSS** – Utility-first CSS framework
+- **Lottie** – Animation library for rich, scalable vector animations
+- **ESLint** – Code quality and linting
+
+## 📁 Project Structure
 
 ```
 portfolio/
 ├── src/
-│   ├── assets/          # Static assets like fonts and images
+│   ├── assets/          # Fonts, images, and static assets
 │   ├── components/      # Reusable React components
-│   ├── pages/           # Individual pages of the portfolio
-│   ├── styles/          # Global and component-specific styles
+│   │   └── AboutMe/     # About Me section components
+│   ├── pages/           # Main pages (e.g., AboutMe.jsx)
+│   ├── styles/          # Global and component styles
 │   ├── App.jsx          # Main application component
-│   ├── main.jsx         # Entry point for the React app
-├── public/              # Public files served directly
+│   ├── main.jsx         # React entry point
+├── public/              # Static public files
 ├── package.json         # Project dependencies and scripts
 ├── vite.config.js       # Vite configuration
 ├── README.md            # Project documentation
 ```
 
-## Installation 🛠️
+## 🚀 Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/portfolio.git
-   ```
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/portfolio.git
+cd portfolio
+```
 
-2. Navigate to the project directory:
-   ```bash
-   cd portfolio
-   ```
+### 2. Install dependencies
+```bash
+npm install
+```
 
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-## Usage
-
-### Development 🚧
-Start the development server:
+### 3. Start the development server
 ```bash
 npm run dev
 ```
-Access the app at `http://localhost:5173`.
+Visit [http://localhost:5173](http://localhost:5173) to view the app.
 
-### Build 📦
-Create a production build:
+### 4. Build for production
 ```bash
 npm run build
 ```
 
-### Preview 🔍
-Preview the production build:
+### 5. Preview the production build
 ```bash
 npm run preview
 ```
 
-### Lint ✅
-Run ESLint to check for code quality:
+### 6. Lint your code
 ```bash
 npm run lint
 ```
 
-## Technologies Used 🖥️
+## 🙌 Acknowledgments
 
-- **React** ⚛️: Library for building user interfaces.
-- **Vite** 🛠️: Next-generation frontend tooling.
-- **TailwindCSS** 🎨: Utility-first CSS framework.
-- **ESLint** ✅: Linter for identifying and fixing code issues.
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [LottieFiles](https://lottiefiles.com/)
+- [ESLint](https://eslint.org/)
 
-## License
+---
 
-This project is proprietary and all rights are reserved. Unauthorized use, modification, or distribution of the code is strictly prohibited.
+## 📢 Notes
 
-## Acknowledgments 🙌
+- This project is a work in progress. New features, sections, and polish are being added regularly.
+- Feedback and suggestions are always welcome!
 
-- [React](https://reactjs.org/) ⚛️
-- [Vite](https://vitejs.dev/) 🛠️
-- [TailwindCSS](https://tailwindcss.com/) 🎨
+---
+
+**© Tristan A.H. Basori**  
+*All rights reserved. Unauthorized use, modification, or distribution is prohibited.*

@@ -5,7 +5,7 @@ function Navbar() {
   const [isHovered, setIsHovered] = useState(false);
 
   return (
-    <nav className="flex flex-row justify-between items-center">
+    <nav className="flex flex-row items-center justify-between w-full">
       <div className="bg-[#2E2E2E] w-fit px-[16px] py-[8px] rounded-[4px] transition-transform duration-300 ease-in-out hover:scale-105">
         <a
           href="#"
@@ -49,7 +49,7 @@ function Navbar() {
       >
         <a
           href="#year"
-          className="cursor-not-allowed relative inline-block px-[20px] py-[10px] text-center font-jetbrainmono group"
+          className="cursor-not-allowed relative inline-block px-[20px] py-[9px] text-center font-jetbrainmono group"
         >
           <span
             className={`relative z-10 block transition-transform duration-[150ms] ease-[var(--elastic-ease-out)] transform scale-110 group-hover:scale-100 ${isHovered ? "text-[#A6A4A4]" : "text-[#2e2e2e]"}`}

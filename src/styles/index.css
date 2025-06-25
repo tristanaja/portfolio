@@ -8,12 +8,18 @@
     src: url("src/assets/fonts/LibreBarcode128Text-Regular.ttf");
 }
 
+@font-face {
+    font-family: "Jersey25";
+    src: url("src/assets/fonts/Jersey25-Regular.ttf");
+}
+
 @import "tailwindcss";
 @tailwind utilities;
 
 @theme {
     --font-jetbrainmono: "JetBrains", monospace;
     --font-librebarcode: "LibreBarcode", monospace;
+    --font-jersey25: "Jersey25", monospace;
     --elastic-ease-out: linear(
         0,
         0.5737 7.6%,
@@ -39,7 +45,6 @@
 
 :root {
     font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-    line-height: 1.5;
     font-weight: 400;
 
     color-scheme: light dark;
