@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="p-6 w-full h-full">
       <Navbar />
-      <AboutMe />
+      <AboutMe id="about" />
     </div>
   );
 }
