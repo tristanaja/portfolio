@@ -1,11 +1,11 @@
 # Tristan's Portfolio Website 🚀
 
-> **Status:** 🛠️ In Progress  
-> Building a modern, interactive portfolio to showcase my journey, skills, and passion for web development.
+> **Status:** ✅ Completed  
+> This project is considered a finished product and will not be developed further.
 
 ---
 
-Welcome to my portfolio project! This site is crafted with the latest web technologies to highlight my work, skills, and interests as an IT programmer focused on clean UI, smooth UX, and continuous learning.
+Welcome to my portfolio project! This site was crafted with the latest web technologies to highlight my work, skills, and interests as an IT programmer focused on clean UI, smooth UX, and continuous learning.
 
 ## ✨ Overview
 
@@ -93,7 +93,7 @@ npm run lint
 
 ## 📢 Notes
 
-- This project is a work in progress. New features, sections, and polish are being added regularly.
+- This project is considered a finished product and will not be developed further.
 - Feedback and suggestions are always welcome!
 
 ---
